@@ -1,0 +1,1 @@
+ <iframe src="{{URL::to('/decaissements')}}" width="100%" height="600"></iframe>
